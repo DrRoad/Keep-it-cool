@@ -1,7 +1,7 @@
 <pre>    <img src='images/NASA-Logo-Large.jpg' width=20% height=20%/>                  <img src='images/logo.png' width=20% height=20%/>                  <img src='images/1 Yf66eLjU4H3g7pIvpXlM5w.jpeg' width=20% height=20%/> </pre>
 
 # Keep-it-cool
-Presented at NASA International Spaceapps 2019 <br/>
+Presented at NASA International Spaceapps 2019<br/>
 <br/>
 Refer 'Team Kugelblitz.pptx' for our full work and roadmap.
 
